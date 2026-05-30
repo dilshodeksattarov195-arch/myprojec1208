@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsvpdate",
+        "uuid": 2150240,
+        "checksum": "ebsyt"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
